@@ -7,7 +7,7 @@ SPDX-License-Identifier: Apache-2.0
 | Juan Felipe Hernandez Saveedra| Universidad de Los Andes | Yes          | No           |
 | Juan Diego Pinto              | Universidad de Los Andes | Yes          | Yes          |
 
-#Simetric Encryption Chip based on A5/1 Cipher Algorithm
+# Simetric Encryption Chip based on A5/1 Cipher Algorithm
 
 This project aims to design and implement a hardware encryption chip based on the A5/1 symmetric stream cipher, widely used in mobile communication systems. The work focuses on exploring the core principles of symmetric cryptography, such as XOR operations and Linear Feedback Shift Registers (LFSRs), to build an efficient, low-complexity, and lightweight encryption system suitable for embedded and low-power applications.
 
